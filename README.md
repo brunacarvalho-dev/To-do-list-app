@@ -14,4 +14,4 @@ To-do list desenvolvido com HTML, CSS e JavaScript.
 📸 Preview
 
 🔗 Acesso 
-https://brunacarvalho-dev.github.io/To-do-list/
+[https://brunacarvalho-dev.github.io/To-do-list/](https://brunacarvalho-dev.github.io/To-do-list-app/)
