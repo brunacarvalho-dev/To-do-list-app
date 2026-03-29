@@ -1,15 +1,17 @@
 # To-do-list
 To-do list desenvolvido com HTML, CSS e JavaScript.
 
-## 🚀 Funcionalidades
+🚀 Funcionalidades
 - Adicionar tarefas
 - Marcar como concluída
 - Salvamento automático
 
-## 💻 Tecnologias
+💻 Tecnologias
 - HTML
 - CSS
 - JavaScript
 
-## 🔗 Acesso 
+📸 Preview
+
+🔗 Acesso 
 https://brunacarvalho-dev.github.io/To-do-list/
