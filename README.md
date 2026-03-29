@@ -12,6 +12,9 @@ To-do list desenvolvido com HTML, CSS e JavaScript.
 - JavaScript
 
 📸 Preview
+<p aling="center">
+<img src="preview.png.png" width="300">
+</p>
 
 🔗 Acesso 
 [https://brunacarvalho-dev.github.io/To-do-list/](https://brunacarvalho-dev.github.io/To-do-list-app/)
